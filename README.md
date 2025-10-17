@@ -1,4 +1,4 @@
-# Data Scientist
+# Undergraduate Student
 
 ### Education
 Bachelor's of Science in Visualization
